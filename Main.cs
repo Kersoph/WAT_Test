@@ -10,6 +10,6 @@ public class Main : Label
     
     public int AddValues(int a, int b)
     {
-        return a;
+        return a + b;
     }
 }
