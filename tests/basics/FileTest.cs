@@ -7,7 +7,7 @@ public class FileTest : WAT.Test
 	[Test]
 	public void ThisFileExists()
 	{
-		Assert.FileExists("res://tests/FileTest.cs");
+		Assert.FileExists("res://tests/basics/FileTest.cs");
 	}
 	
 	[Test]
